@@ -1,0 +1,15 @@
+.pequeño{
+    border: 2px solid blue;
+    width: 210px;
+    height: 105px;
+    background: url(../img/f01.png) left bottom repeat-x, url(../img/f02.png) left bottom no-repeat, url(../img/f03.png) left top repeat-x;
+    background-color:cyan;
+}
+.grande{
+    border: 5px solid red;
+    width: 440px;
+    height: 390px;
+    background: url(../img/f01.png) left bottom repeat-x, url(../img/f02.png) left bottom no-repeat, url(../img/f03.png) left top repeat-x;
+    background-color:cyan;
+    margin: 20px;
+}

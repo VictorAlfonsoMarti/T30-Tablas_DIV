@@ -1,0 +1,33 @@
+h5{
+    text-align: center;
+}
+table{
+    text-align: center;
+    font-weight: bold;
+    min-width: 100%;
+    border-style: outset;
+    border-width: 2px; 
+}
+tr, td{
+    border-style: ridge;
+    border-width: 2px; 
+}
+
+.verde{
+    background-color: mediumspringgreen;
+}
+.cian{
+    text-align: left;
+    background-color: mediumturquoise;
+}
+.rosa{
+    background-color: rgb(221, 145, 219);
+    vertical-align: bottom;
+    text-align: right; 
+}
+.rojo{
+    color: red;
+}
+h5{
+    margin: 0px;
+}

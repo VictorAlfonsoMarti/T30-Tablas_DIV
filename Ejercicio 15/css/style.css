@@ -1,0 +1,9 @@
+.lista1{
+    list-style-type: decimal;
+}
+.lista2{
+    list-style-type: lower-latin;
+}
+.lista3{
+    list-style-type: upper-roman;
+}
